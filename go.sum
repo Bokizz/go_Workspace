@@ -1,2 +1,6 @@
 github.com/Bokizz/temporary v0.0.0-20240721163811-ca75692519a8 h1:poIveUOhJv/y7jqxZLWJc5wIqfkjAPyrRdRATx/V7uY=
 github.com/Bokizz/temporary v0.0.0-20240721163811-ca75692519a8/go.mod h1:ZPORV4RPbSTiLFqgwdtSS6m7RSVm367IaGzAPTVaDRE=
+github.com/Bokizz/temporary v0.0.0-20240721170319-0ca1a714f173 h1:W85KVm9jlODsqeD6Dn6AyabgRJPaTqDcpDjz/JVWU3s=
+github.com/Bokizz/temporary v0.0.0-20240721170319-0ca1a714f173/go.mod h1:WGxASw9a/MIXltTcakgIWP+umhI4G81Upo47LladoPs=
+github.com/Bokizz/temporary2 v0.0.0-20240721165825-b7e0e39d923b h1:+ef7j/vm5gr8szcowiTI7djkab49EomchT6GJLGVBIU=
+github.com/Bokizz/temporary2 v0.0.0-20240721165825-b7e0e39d923b/go.mod h1:AhgG6kAatK+Qr4Bp47EAdVApciodTIo4ohF53E522JY=
