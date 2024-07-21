@@ -2,5 +2,11 @@ github.com/Bokizz/temporary v0.0.0-20240721163811-ca75692519a8 h1:poIveUOhJv/y7j
 github.com/Bokizz/temporary v0.0.0-20240721163811-ca75692519a8/go.mod h1:ZPORV4RPbSTiLFqgwdtSS6m7RSVm367IaGzAPTVaDRE=
 github.com/Bokizz/temporary v0.0.0-20240721170319-0ca1a714f173 h1:W85KVm9jlODsqeD6Dn6AyabgRJPaTqDcpDjz/JVWU3s=
 github.com/Bokizz/temporary v0.0.0-20240721170319-0ca1a714f173/go.mod h1:WGxASw9a/MIXltTcakgIWP+umhI4G81Upo47LladoPs=
+github.com/Bokizz/temporary v1.1.0 h1:Z8C1eryhB9F6mmAcxol62UfxoKzrsOSg/mFvjczI5dc=
+github.com/Bokizz/temporary v1.1.0/go.mod h1:WGxASw9a/MIXltTcakgIWP+umhI4G81Upo47LladoPs=
+github.com/Bokizz/temporary v1.3.0 h1:58r1gdeR5sYIDrTL0TnRF0f2JDw8/e0avW/VC5LyVP0=
+github.com/Bokizz/temporary v1.3.0/go.mod h1:LksEMr0YyGwDA6GzJRs1zv9iXqpdByCC/6d0567asB4=
 github.com/Bokizz/temporary2 v0.0.0-20240721165825-b7e0e39d923b h1:+ef7j/vm5gr8szcowiTI7djkab49EomchT6GJLGVBIU=
 github.com/Bokizz/temporary2 v0.0.0-20240721165825-b7e0e39d923b/go.mod h1:AhgG6kAatK+Qr4Bp47EAdVApciodTIo4ohF53E522JY=
+github.com/Bokizz/temporary2 v1.0.0 h1:VWiuIZHEmQGBu0Vm+g1l7aBaX3f+Cgc99i1yXxvx6DA=
+github.com/Bokizz/temporary2 v1.0.0/go.mod h1:AhgG6kAatK+Qr4Bp47EAdVApciodTIo4ohF53E522JY=
