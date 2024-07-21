@@ -10,7 +10,7 @@ func main() {
 	c, d, e, f := 2, 3, 4, 6
 	var k float64 = 43.69696969
 	fmt.Printf("%v - type : %T\n", c, c)
-	fmt.Printf("%v - type : %T\n", d, d)
+	fmt.Printf("%v - type : %T\n", d, d) // %v e value shto avtomatski ja dava vrednosta na promenlivata formatirana spored tipot soodvetno
 	fmt.Printf("%v - type : %T\n", e, e)
 	fmt.Printf("%v - type : %T\n", f, f)
 	fmt.Printf("%v - type : %T", k, k)
