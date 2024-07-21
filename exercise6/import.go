@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+
 	"github.com/Bokizz/temporary"
 )
 
@@ -10,5 +11,5 @@ func main() {
 	s1 := temporary.Hey() // mozhe da inicijalizirame
 	fmt.Println(s1)
 	fmt.Println(temporary.Listen()) // i direktno da go printame
-	fmt.Println(temporary.FromV11())
+	temporary.FromV11()
 }
